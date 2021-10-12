@@ -1,10 +1,11 @@
 {
-    "name": "laravel/laravel",
+    "name": "balsakup/laravel-starter",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Balsakup's Laravel starter",
     "keywords": [
         "framework",
-        "laravel"
+        "laravel",
+        "starter"
     ],
     "license": "MIT",
     "require": {
